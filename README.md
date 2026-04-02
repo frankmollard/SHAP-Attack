@@ -148,20 +148,6 @@ On a binary cat/dog classifier (CNN, ~3 conv layers, trained with cross-entropy)
 If you use this code, please cite the original paper:
 
 ```bibtex
-@article{https://doi.org/10.13140/rg.2.2.28762.40647,
-  doi       = {10.13140/RG.2.2.28762.40647},
-  url       = {https://www.researchgate.net/doi/10.13140/RG.2.2.28762.40647},
-  author    = {Mollard, Frank and Becker, Marcus and Röhrbein, Florian},
-  language  = {en},
-  title     = {Adversarial Evasion Attacks on Computer Vision using SHAP Values},
-  publisher = {Unpublished},
-  year      = {2024}
-}
-```
-
-An arXiv preprint is also available:
-
-```bibtex
 @misc{mollard2026adversarial,
   title         = {Adversarial Evasion Attacks on Computer Vision using SHAP Values},
   author        = {Frank Mollard and Marcus Becker and Florian Roehrbein},
